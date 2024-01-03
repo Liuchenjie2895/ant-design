@@ -9,7 +9,7 @@ import {
   SettingFilled,
   SmileOutlined,
   SyncOutlined,
-} from '@ant-design/icons';
+} from '<UsergroupDeleteOutlined />';
 import { Space } from 'antd';
 
 const App: React.FC = () => (
